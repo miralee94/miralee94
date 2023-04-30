@@ -3,6 +3,8 @@
 - ✨ I’m facinated by digital technology
 - 📫 How to reach me: https://www.linkedin.com/in/miralee1994/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miralee94&layout=compact&theme=dracula)](https://github.com/miralee94)
+
 <!--
 **miralee94/miralee94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
