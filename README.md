@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Mira 👋
+- 🌱 I’m currently studying to become DevOps Engineer at Nackademin
+- 📫 How to reach me: https://www.linkedin.com/in/miralee1994/
 
 <!--
 **miralee94/miralee94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
