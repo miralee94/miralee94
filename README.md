@@ -1,6 +1,6 @@
 ### Hi there, I'm Mira 👋
 - 🌱 I’m currently studying to become DevOps Engineer at Nackademin
-- ✨ I’m facinated by digital technology.
+- ✨ I’m facinated by digital technology
 - 📫 How to reach me: https://www.linkedin.com/in/miralee1994/
 
 <!--
