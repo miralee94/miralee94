@@ -4,7 +4,7 @@
 
 ![Mira](https://komarev.com/ghpvc/?username=miralee94&color=c792ea&style=plastic&label=Profile+Views)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miralee94&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&card_width=513)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miralee94&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&card_width=400)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miralee94&count_private=true&layout=compact&theme=tokyonight)](https://github.com/miralee94)
 
