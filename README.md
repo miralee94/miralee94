@@ -1,6 +1,5 @@
 ### Hi there, I'm Mira 👋
-- 🌱 I’m currently studying to become DevOps Engineer at Nackademin
-- ✨ I’m facinated by digital technology
+
 
 ![Mira](https://komarev.com/ghpvc/?username=miralee94&color=c792ea&style=plastic&label=Profile+Views)
 
